@@ -1,0 +1,31 @@
+"Menu Bar"
+
+Options:     ALT + V
+-Change Exit mode: you can choose Exit/Hide on System Tray(Ctrl + M)
+
+Applicaton:  ALT + I
+-Log Out: to log out from your account(alse you can press L)
+-Exit: to wxit the program ( in a way you have chosed before.)(alse you can press ESC for complete exit)
+
+Help:        ALT + E
+-Help: Here!(Ctrl + H)
+-About: a brief explaination about program and Me!(Ctrl + A)
+
+View:        ALT + V
+-Toggle Full Screen: Full screen show! (Ctrl + F)
+-Change Theme: you can choose to use program in a light/dark theme.(Ctrl + C)
+
+"LeftSide Bar"
+
+-Profile: shows your profile.(ALT + P)
+-Refresh: Refreshes timeline to show new tweets and other updates.(ALT + R)
+-Tweet: to add a new  tweet.(ALT + T)
+-Search: to searching other users(ALT + S)
+
+"TimeLine"
+-Like: to like a tweet
+-Retweet:to retweet a tweet
+-Comment: to add a comment on a tweet
+-Remove: to remove a tweet(only yours!)
+
+*** In every state you can press ALT + First letter of that button to do the action!
